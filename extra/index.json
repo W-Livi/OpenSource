@@ -1034,6 +1034,14 @@
 			"type": "custom"
 		},
 		{
+			"ids": [ "zg3d" ],
+			"names": {
+				"en-US": "Zero Gravity 3D"
+			},
+			"icon": "generic",
+			"type": "custom"
+		},
+		{
 			"ids": [ "3up" ],
 			"names": {
 				"en-US": "3-UP"
